@@ -10,6 +10,9 @@ public class Test {
 		System.out.println("Hi I am Developer 1");
 	}
 	
+	public static void sayHiHello() {
+		System.out.println("Hi am Developer 3");
+	}
 	public static void sayBye() {
 		System.out.println("This is Developer 2");
 	}
